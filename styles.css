@@ -1,0 +1,45 @@
+body{
+  font-family: helvetica;
+}
+.header-image{
+  background-image: url("./images/pattern.jpeg");
+  width: 100%;
+  height: 100%;
+  display: table;
+  background-size: cover;
+  background-position: center;
+}
+
+.background, h1{
+  color: khaki;
+  font-size: 100px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  font-weight: bold;
+}
+
+.headings{
+  background-color: #42f5a7;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  display: block;
+
+}
+
+#subhead{
+  font-weight: bold;
+
+}
+.price{
+ font-weight: bold;
+ color: blue;
+}
+#frames{
+  background-color: #d45555;
+}
+#paint{
+  background-color: skyblue;
+}
